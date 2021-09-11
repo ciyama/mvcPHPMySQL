@@ -1,0 +1,18 @@
+{
+    "require": {
+        "php": ">= 7.0"   
+    },
+    "authors": [
+        {
+            "name": "Celio Iyama",
+            "email": "celio.iyama@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "MF\\": "vendor/MF/"
+
+        }
+    }
+}
